@@ -4,6 +4,6 @@ public class Main {
     }
 
     public static void nombre() {
-        System.out.println("Assignment 3 by David Hernández");
+        System.out.println("Assignment 3 by David Hernández Herrera");
     }
 }
